@@ -14,9 +14,6 @@ p {
 }
 
 
-/*
- * -- Layout Styles --
- */
 .l-content {
     margin: 0 auto;
 }
@@ -25,10 +22,6 @@ p {
     padding: 0.5em 2em;
 }
 
-/*
- * -- MENU STYLES --
- * Make the menu have a very faint box-shadow.
- */
 .pure-menu {
     box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
 }
@@ -49,7 +42,6 @@ p {
     margin-bottom: 3em;
     display: table;
 }
-
     .banner-head {
         display: table-cell;
         vertical-align: middle;
@@ -60,12 +52,9 @@ p {
         text-shadow: 0 1px 1px black;
     }
 
-
-
-
  .pricing-tables,
  .information {
-    max-width: 980px;
+    max-width: 1120px;
     margin: 0 auto;
  }
 .pricing-tables {
